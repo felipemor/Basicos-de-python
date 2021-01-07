@@ -1,0 +1,6 @@
+algo= input('Digite algo para saber o tipo primitivo :')
+print(type(algo))
+print(algo.isnumeric())
+print(algo.isalnum())
+print(algo.isalpha())
+print(algo.isupper())

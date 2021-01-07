@@ -1,0 +1,2 @@
+n1=int(input('Qual o primeiro número ?'))
+print(type(n1))
